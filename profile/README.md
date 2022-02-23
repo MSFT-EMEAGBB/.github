@@ -1,3 +1,3 @@
 # WOW 
 
-![GBB](ninja-gif.gif)
+![GBB](/images/ninja-gif.gif)
